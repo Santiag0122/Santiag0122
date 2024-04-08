@@ -1,3 +1,6 @@
+![Banner de Linkedin Programador Web Minimalista Tipográfico Blanco y Negro (2)](https://github.com/Santiag0122/Santiag0122/assets/79527653/9db59700-3da2-49fa-93f1-c352809c010e)
+
+
 ### Hi there 👋
 
 <!--
