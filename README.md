@@ -45,6 +45,6 @@ As a Multimedia Engineering student at Universidad Autónoma de Occidente, my pa
 - SoAppFi: (Software financial application) Link: https://www.youtube.com/watch?v=pLQMavG0yAo  My role was program in python Colab a network using machine learning to be able the app to ask financial questions.
 
 ## Social  Media 🌐
-[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/santiago-ayala-pereira-707781220)
+[![Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-ayala-pereira-707781220/)
 [![Github profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Santiag0122)
 [![Youtube profile](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh2kJ0BR7okZCMfpWynZeww)
