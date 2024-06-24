@@ -8,7 +8,7 @@
 
 
 ## About Me 👨🏻‍💻
-As a Multimedia Engineering student at Universidad Autónoma de Occidente, my passion for technology, programming languages, and design drives me to excel in leading teams, conceptualizing, and developing interactive systems, and crafting compelling audiovisual content. Proficient in industry-standard tools such as Figma, Adobe XD, Blender, and the Adobe Creative Suite, alongside frontend technologies like HTML, CSS, and JavaScript, I seamlessly navigate between design and development tasks with finesse, ensuring seamless user experiences across platforms. Committed to continuous learning and staying abreast of emerging technologies, I am dedicated to making innovative and impactful contributions to the dynamic realm of multimedia engineering, driven by creativity, technical expertise, and a steadfast commitment to excellence.
+I am a dynamic professional with a strong background in multimedia design and development, supported by significant experience in UX/UI and software development. My career spans from creating impactful visual experiences to developing robust web applications. I have worked in both corporate environments and on freelance projects, allowing me to develop advanced technical skills and effective communication with clients and teams. As a Multimedia Engineering graduate from Universidad Autónoma de Occidente, my enthusiasm for technology, programming languages, and design has driven my success in leading teams, conceptualizing, and developing interactive systems. I am eager to apply my expertise and skills to new challenges that demand creativity, technical accuracy, and a user-centered vision.
 
 ## My Interests 🤓
 
