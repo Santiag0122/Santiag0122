@@ -17,6 +17,7 @@ Full-stack development, front-end and back-end technologies, content management,
 💼 Professional Experience:
 
 Proven expertise in scalable web application development, multimedia project leadership, and data-driven decision-making.
+
 🔗 Let’s connect and elevate your digital projects! 🚀
 
 ## 🌐 Socials:
