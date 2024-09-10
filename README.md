@@ -1,26 +1,25 @@
-# 💫 About Me:
-👋 Hi there! I'm Santiago Ayala
-🎓 Multimedia Engineer with a strong background in Web Design, Content Creation, and Web Application Development, graduated from Universidad Autónoma de Occidente. I’m currently in my second semester of a postgraduate program in Business Intelligence with an emphasis on Big Data, complementing my multidisciplinary approach to integrating digital strategies for maximizing web platform performance and enhancing user experience.
+# 👋 Hi there! I'm Santiago Ayala, a Multimedia Engineer with a solid background in Web Design, Content Creation, and Web Application Development. I graduated from Universidad Autónoma de Occidente and am currently pursuing a postgraduate degree in Business Intelligence with a focus on Big Data. This complements my multidisciplinary approach to enhancing digital strategies for optimizing web platform performance and user experience.
 
-🚀 What I Do
-🌟 I'm passionate about integrating digital strategies to optimize web platform performance and elevate user experience. Throughout my career, I have honed my skills in:
+🚀 What I Do:
 
-🛠 Scalable Web Application Development: Building intuitive and functional designs that align with client needs and business objectives.
-🎨 UX/UI Design: Focusing on enhancing the efficiency and usability of digital products, ensuring each solution adheres to the best design practices and current market trends.
-🤝 Multidisciplinary Collaboration: Working closely with diverse teams to conceptualize and develop websites that merge aesthetic design with robust technical structures, prioritizing accessibility, cross-device compatibility, and performance optimization.
-💡 Why Choose Me?
-👨‍💻 Turning Ideas into Digital Experiences: As a Web Content and Web Analyst, I specialize in transforming concepts into engaging digital experiences, from initial concept to final implementation.
+Scalable Web Application Development: Creating intuitive, functional designs that meet client needs and business goals.
+UX/UI Design: Enhancing digital product efficiency and usability while adhering to design best practices and market trends.
+Multidisciplinary Collaboration: Partnering with diverse teams to develop websites that combine aesthetic appeal with technical robustness, focusing on accessibility, compatibility, and performance.
+🌟 Core Competencies:
 
-📊 Advanced Web Performance Analysis: Expertise in interpreting website performance data, identifying improvement opportunities, and implementing strategic adjustments to optimize conversion rates and user retention.
-✨ Digital Marketing Campaigns: Creating digital marketing strategies that enhance brand presence online, maximizing their reach and market relevance.
-🌐 My Focus
-🔍 My primary focus is on improving the efficiency and usability of digital products, ensuring each solution adheres to the best practices in UX/UI design and keeps up with market trends.
+Advanced Web Performance Analysis: Expert in analyzing website performance data, identifying improvements, and optimizing conversion rates and user retention.
+Digital Marketing Campaigns: Crafting strategies that boost online brand presence and market relevance.
+Innovative Problem-Solving: Utilizing a creative and analytical approach to overcome challenges and drive successful project outcomes.
+🌐 My Focus:
 
-🛠 Technical Skills: Full-stack development, front-end and back-end technologies, content management, performance optimization, and data analytics.
+Improving digital product efficiency and usability, aligning with best UX/UI practices and staying updated with market trends.
+🛠 Technical Skills:
 
-💼 Professional Experience: Proven track record in developing scalable web applications, leading multimedia projects, and conducting in-depth data analysis to drive decision-making and optimize web strategies.
+Full-stack development, front-end and back-end technologies, content management, performance optimization, and data analytics.
+💼 Professional Experience:
 
-🔗 Let’s connect and take your digital projects to the next level! 🚀
+Proven expertise in scalable web application development, multimedia project leadership, and data-driven decision-making.
+🔗 Let’s connect and elevate your digital projects! 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santiago_ayala_012) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-ayala-pereira-707781220/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@santiagoayalapereira9173) 
