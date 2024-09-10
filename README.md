@@ -8,6 +8,7 @@ I’m Santiago Ayala, a versatile Multimedia Engineer with a robust background i
 Advanced Web Performance Analysis: Expert in analyzing website performance data, identifying improvements, and optimizing conversion rates and user retention.
 Digital Marketing Campaigns: Crafting strategies that boost online brand presence and market relevance.
 Innovative Problem-Solving: Utilizing a creative and analytical approach to overcome challenges and drive successful project outcomes.
+
 🌐 My Focus:
 
 Improving digital product efficiency and usability, aligning with best UX/UI practices and staying updated with market trends.
