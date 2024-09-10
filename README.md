@@ -1,10 +1,8 @@
-# 👋 Hi there! I'm Santiago Ayala, a Multimedia Engineer with a solid background in Web Design, Content Creation, and Web Application Development. I graduated from Universidad Autónoma de Occidente and am currently pursuing a postgraduate degree in Business Intelligence with a focus on Big Data. This complements my multidisciplinary approach to enhancing digital strategies for optimizing web platform performance and user experience.
+# Multimedia Engineer | Business Intelligence & Data Management Specialist | Full-Stack Developer
 
-🚀 What I Do:
 
-Scalable Web Application Development: Creating intuitive, functional designs that meet client needs and business goals.
-UX/UI Design: Enhancing digital product efficiency and usability while adhering to design best practices and market trends.
-Multidisciplinary Collaboration: Partnering with diverse teams to develop websites that combine aesthetic appeal with technical robustness, focusing on accessibility, compatibility, and performance.
+I’m Santiago Ayala, a versatile Multimedia Engineer with a robust background in web design, content creation, and full-stack development. Currently pursuing a postgraduate degree in Business Intelligence with a focus on Big Data, I integrate digital strategies to optimize web performance and user experience. My expertise spans scalable web applications, UX/UI design, and data management, making me adept at delivering innovative solutions and actionable insights to drive business success.
+
 🌟 Core Competencies:
 
 Advanced Web Performance Analysis: Expert in analyzing website performance data, identifying improvements, and optimizing conversion rates and user retention.
