@@ -1,7 +1,7 @@
-# Multimedia Engineer | Business Intelligence & Data Management Specialist | Full-Stack Developer
+# Multimedia Engineer | Business Intelligence & Data Management Specialist | Data Analytics Developer 
 
 
-I’m Santiago Ayala, a versatile Multimedia Engineer with a robust background in web design, content creation, and full-stack development. Currently pursuing a postgraduate degree in Business Intelligence with a focus on Big Data, I integrate digital strategies to optimize web performance and user experience. My expertise spans scalable web applications, UX/UI design, and data management, making me adept at delivering innovative solutions and actionable insights to drive business success.
+Multimedia Engineer and Web Analytics Developer with over 3 years of experience in web analysis, digital campaigns, web application development, and website optimization. Specialization in Business Intellingence and Data Management. Google-certified Data Analyst, skilled in problem-solving and leading corporate processes using agile methodologies like Scrum. Proficient in Google Tag Manager, Google Analytics, SQL Server, Tableau, Power BI, MS Office Excel, and Google Data Studio. Experienced in SEO, SEM, marketing automation, Machine Learning, and ETL processes. Bilingual (C1 certified) with knowledge of JavaScript, Python, PHP, R, and MongoDB.
 
 🌟 Core Competencies:
 
