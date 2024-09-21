@@ -3,20 +3,6 @@
 
 Multimedia Engineer and Web Analytics Developer with over 3 years of experience in web analysis, digital campaigns, web application development, and website optimization. Specialization in Business Intellingence and Data Management. Google-certified Data Analyst, skilled in problem-solving and leading corporate processes using agile methodologies like Scrum. Proficient in Google Tag Manager, Google Analytics, SQL Server, Tableau, Power BI, MS Office Excel, and Google Data Studio. Experienced in SEO, SEM, marketing automation, Machine Learning, and ETL processes. Bilingual (C1 certified) with knowledge of JavaScript, Python, PHP, R, and MongoDB.
 
-🌟 Core Competencies:
-
-Advanced Web Performance Analysis: Expert in analyzing website performance data, identifying improvements, and optimizing conversion rates and user retention.
-Digital Marketing Campaigns: Crafting strategies that boost online brand presence and market relevance.
-Innovative Problem-Solving: Utilizing a creative and analytical approach to overcome challenges and drive successful project outcomes.
-
-🌐 My Focus:
-
-Improving digital product efficiency and usability, aligning with best UX/UI practices and staying updated with market trends.
-🛠 Technical Skills:
-
-Full-stack development, front-end and back-end technologies, content management, performance optimization, and data analytics.
-💼 Professional Experience:
-
 Proven expertise in scalable web application development, multimedia project leadership, and data-driven decision-making.
 
 🔗 Let’s connect and elevate your digital projects! 🚀
