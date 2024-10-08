@@ -1,9 +1,9 @@
-# Multimedia Engineer | Business Intelligence & Data Management Specialist | Data Analytics Developer 
+# Multimedia Engineer | Business Intelligence | Data Analyst | Business Analytics Specialist.
 
 
-Multimedia Engineer and Web Analytics Developer with over 3 years of experience in web analysis, digital campaigns, web application development, and website optimization. Specialization in Business Intellingence and Data Management. Google-certified Data Analyst, skilled in problem-solving and leading corporate processes using agile methodologies like Scrum. Proficient in Google Tag Manager, Google Analytics, SQL Server, Tableau, Power BI, MS Office Excel, and Google Data Studio. Experienced in SEO, SEM, marketing automation, Machine Learning, and ETL processes. Bilingual (C1 certified) with knowledge of JavaScript, Python, PHP, R, and MongoDB.
+I’m a Multimedia Engineer and Full Stack Developer, with a focus on data analytics and business intelligence. Over the years, I’ve blended my web development skills with the ability to dive into data, helping businesses optimize their processes and make smarter, data-driven decisions. As a Google-certified Data Analyst, I manage projects using agile methodologies like Scrum. I have hands-on experience with tools like Google Tag Manager, Google Analytics, SQL Server, Tableau, Power BI and MS Office Excel, focusing on building KPIs and analyzing market trends. I also have experience in SEO, SEM, marketing automation, Machine Learning, and ETL processes, which enables me to develop business strategies powered by data-driven insights. On the technical side, I’m proficient in programming languages like JavaScript, Python, PHP and R.
 
-Proven expertise in scalable web application development, multimedia project leadership, and data-driven decision-making.
+Contact: santiagoayalapereira@gmail.com
 
 🔗 Let’s connect and elevate your digital projects! 🚀
 
